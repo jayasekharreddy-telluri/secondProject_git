@@ -1,2 +1,5 @@
 tcs
 infosys
+capgmint
+cognizant
+wipro
